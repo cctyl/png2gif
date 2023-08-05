@@ -4,6 +4,8 @@
 ### 使用方式
 - 安装jdk8以上
 - 下载压缩包，并解压
+
+[下载地址](https://github.com/cctyl/png2gif/archive/refs/tags/1.0.zip)
 - 编辑run.bat
 
 把`-path 文件路径` 改成你的png文件存放目录的位置
